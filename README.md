@@ -34,7 +34,7 @@ While Windows isn't officially supported, helpful users have posted instructions
 #### You can import the ```face_recognition module``` and then easily manipulate faces with just a couple of lines of code. It's super easy!
 #### API Docs: https://face-recognition.readthedocs.io.
 # Source Code↙️
-#### [View and Download the code from here](https://github.com/Apokky-30/Real-Time-Face-Detector/blob/main/RealTime_face_detector.py) by Apokky-30
+#### [View and Download the code from here](https://github.com/Apokky-30/Real-Time-Face-Detector/blob/main/RealTime_face_detector.py) -- by Apokky-30
 # Creating a Standalone Executable :
 #### If you want to create a standalone executable that can run without the need to install ```python``` or ```face_recognition```, you can use [PyInstaller](https://github.com/pyinstaller/pyinstaller). However, it requires some custom configuration to work with this library. See [this issue](https://github.com/ageitgey/face_recognition/issues/357) for how to do it.
 # Articles and Guides that ```cover face_recognition``` :
