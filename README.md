@@ -1,5 +1,5 @@
 # Real-Time-Face-Detector
-Create your own Real-Time World Wide Face Detector using powerful python script.
+Create your own Real-Time World Wide Face Detector using a webcam!! We use powerful python script by [Apokky-30](https://github.com/Apokky-30) to make all of this incredible project.
 
 # Example:
 ![36f0e3f0-13cb-11e7-8258-4d0c9ce1e419](https://user-images.githubusercontent.com/92684818/138464953-4dd5d06f-a3bc-4102-9ca6-cb18a7a57e2f.gif)
