@@ -1,3 +1,6 @@
+# code by Apokky-30
+# Follow Instagram at @apokky_
+
 import face_recognition
 import cv2
 import numpy as np
